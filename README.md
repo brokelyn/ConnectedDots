@@ -2,15 +2,13 @@
 
 ## What is this?
 
-Sometimes I come up with random ideas. This was one of them. I saw an image of
-connected dots and thought it would be interesting to make a simulation for
-this.
+This is a small simulation of dots which are connected by springs. These springs
+hold the dots together though they can only be expanded to a maximum size before breaking.
 
 ## Game Engine
 
-Because computer graphics are best supported by game engines I decided to use
-one instead of any other language with extra library. In this case I am using
-**GODOT** because it is open sourcen and lightweight.
+Because game engines provide an easy and powerful way of 2D and 3D gaphics the open source
+and lightweight game engine **GODOT** is used. 
 
 ## Preview
 
